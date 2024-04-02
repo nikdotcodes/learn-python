@@ -3,7 +3,7 @@ title: "Coding environment (and the shell)"
 subtitle: Module 1
 author: "{{< var author >}}"
 format: revealjs
-logo: /media/cwc-logo.png
+logo: /media/ldd-logo.png
 css: /slides.css
 title-slide-attributes:
     data-background-image: /media/egg-shells.jpg

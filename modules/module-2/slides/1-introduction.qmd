@@ -2,7 +2,7 @@
 title: "{{< var module-2 >}}"
 author: "{{< var author >}}"
 format: revealjs
-logo: /media/cwc-logo.png
+logo: /media/ldd-logo.png
 css: /slides.css
 title-slide-attributes:
     data-color: "#ffffff"

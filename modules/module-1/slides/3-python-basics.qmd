@@ -3,7 +3,7 @@ title: "Python basics"
 subtitle: Module 1
 author: "{{< var author >}}"
 format: revealjs
-logo: /media/cwc-logo.png
+logo: /media/ldd-logo.png
 css: /slides.css
 title-slide-attributes:
     data-background-color: "#F6D499"

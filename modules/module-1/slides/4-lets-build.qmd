@@ -3,7 +3,7 @@ title: "&#127925; Do you want to build a web app? &#127925;"
 subtitle: "Module 1"
 author: "{{< var author >}}"
 format: revealjs
-logo: /media/cwc-logo.png
+logo: /media/ldd-logo.png
 css: /slides.css
 title-slide-attributes:
     data-background-image: /media/web-app.png
