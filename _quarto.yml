@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "LDD"
+  title: "Let's Do Digital"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
 format:
   html:
     theme: 
-      light: yeti
+      light: cosmo
       dark: darkly
     css: styles.css
     toc: true
